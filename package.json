@@ -1,0 +1,11 @@
+{
+  "name": "sistema-vendas-light-site",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "build": "node scripts/prepare-catalog.mjs"
+  }
+}
